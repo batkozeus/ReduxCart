@@ -1,1 +1,1 @@
-To run, type in console terminal: nm start
+To run, type in console terminal: npm start
